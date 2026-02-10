@@ -18,7 +18,7 @@ pac auth create --environment {environment id}
 ```bash
 cd samples/HelloWorld
 npm install
-pac code init
+pac code init --displayName "HelloWorld"
 ```
 
 ## 4. Run locally
