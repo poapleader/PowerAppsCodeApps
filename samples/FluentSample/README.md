@@ -67,7 +67,7 @@ This ensures the project compiles successfully before running.
 ## 3. Initialize Power Apps Code integration
 
 ```bash
-pac code init
+pac code init --displayName "FluentSample"
 ```
 
 This sets up the Power Apps Code integration for local development.
